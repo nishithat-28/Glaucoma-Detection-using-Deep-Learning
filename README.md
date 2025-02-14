@@ -1,9 +1,9 @@
-### **📌 Glaucoma Detection using Deep Learning**
+# **📌 Glaucoma Detection using Deep Learning**
 🔬 **Early diagnosis of glaucoma is crucial to prevent vision loss!** This project leverages **Deep Learning (ResNet50)** for automated glaucoma detection using fundus images.
 
 ---
 
-## **🚀 Project Overview**
+### **🚀 Project Overview**
 Glaucoma is a **chronic eye disease** that damages the **optic nerve**, leading to irreversible blindness if untreated. Our project uses a **Convolutional Neural Network (CNN)** based on **ResNet50** to classify images into:
 ✅ **Normal**  
 ⚠️ **Glaucoma-Affected**
@@ -12,7 +12,7 @@ We preprocess images using **CLAHE (Contrast Limited Adaptive Histogram Equaliza
 
 ---
 
-## **🛠️ Tech Stack**
+### **🛠️ Tech Stack**
 - **Programming Language:** Python 🐍  
 - **Deep Learning Framework:** TensorFlow & Keras 🔥  
 - **Model Architecture:** ResNet50 🏗️  
@@ -21,7 +21,7 @@ We preprocess images using **CLAHE (Contrast Limited Adaptive Histogram Equaliza
 
 ---
 
-## **📂 Dataset**
+### **📂 Dataset**
 We used **3 combined datasets** containing **fundus images** labeled as:
 - **"Normal"** 🟢 (Healthy eyes)
 - **"Glaucoma"** 🔴 (Affected eyes)
@@ -33,7 +33,7 @@ We used **3 combined datasets** containing **fundus images** labeled as:
 
 ---
 
-## **📊 Model Training**
+### **📊 Model Training**
 We fine-tuned **ResNet50** (pretrained on ImageNet) by:
 - Freezing initial layers  
 - Fine-tuning the last **10 layers**  
@@ -49,20 +49,20 @@ The model achieves high **precision** and **recall**, making it reliable for rea
 
 ---
 
-## **📌 How to Run the Project**
-### **🔧 Install Dependencies**
+### **📌 How to Run the Project**
+#### **🔧 Install Dependencies**
 ```sh
 pip install -r requirements.txt
 ```
 
-### **🏃 Run the Streamlit App**
+#### **🏃 Run the Streamlit App**
 ```sh
 python -m streamlit run app.py
 ```
 
 ---
 
-## **🎛️ Streamlit UI**
+### **🎛️ Streamlit UI**
 We developed an **interactive UI** using **Streamlit**, allowing users to:
 🔍 **Upload a fundus image**  
 🖼️ **Preview the image**  
