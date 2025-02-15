@@ -12,7 +12,6 @@ Glaucoma is a **chronic eye disease** that damages the **optic nerve**, leading 
 
 
 
-
 ### **🛠️ Tech Stack**
 - **Programming Language:** Python 🐍  
 - **Deep Learning Framework:** TensorFlow & Keras 🔥  
