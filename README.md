@@ -5,10 +5,11 @@
 
 ### **🚀 Project Overview**
 Glaucoma is a **chronic eye disease** that damages the **optic nerve**, leading to irreversible blindness if untreated. Our project uses a **Convolutional Neural Network (CNN)** based on **ResNet50** to classify images into:
+
 ✅ **Normal**  
+
 ⚠️ **Glaucoma-Affected**
 
-We preprocess images using **CLAHE (Contrast Limited Adaptive Histogram Equalization)** to enhance contrast and improve model performance.
 
 ---
 
