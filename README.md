@@ -40,9 +40,9 @@ python -m streamlit run app.py
 
 ## **🎛️ Streamlit UI**
 We developed an **interactive UI** using **Streamlit**, allowing users to:
-🔍 **Upload a fundus image**  
-🖼️ **Preview the image**  
-🧠 **Get instant glaucoma detection results**  
+- 🔍 **Upload a fundus image**  
+- 🖼️ **Preview the image**  
+- 🧠 **Get instant glaucoma detection results**  
 
 
 
