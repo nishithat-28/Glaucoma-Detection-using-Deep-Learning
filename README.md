@@ -1,27 +1,26 @@
-# **📌 Glaucoma Detection using Deep Learning**
+# **🩺 Glaucoma Detection using Deep Learning**
 🔬 **Early diagnosis of glaucoma is crucial to prevent vision loss!** This project leverages **Deep Learning (ResNet50)** for automated glaucoma detection using fundus images.
 
-## **🚀 Project Overview**
 Glaucoma is a **chronic eye disease** that damages the **optic nerve**, leading to irreversible blindness if untreated. Our project uses a **Convolutional Neural Network (CNN)** based on **ResNet50** to classify images into:
 - ✅ **Normal**  
 - ⚠️ **Glaucoma-Affected**
 
 ## **🛠️ Tech Stack**
-- **Programming Language:** Python 🐍  
-- **Deep Learning Framework:** TensorFlow & Keras 🔥  
-- **Model Architecture:** ResNet50 🏗️  
-- **Preprocessing:** OpenCV (CLAHE, Image Augmentation) 📸  
-- **Deployment:** Streamlit 🎛️  
+- **Programming Language:** Python  
+- **Deep Learning Framework:** TensorFlow & Keras   
+- **Model Architecture:** ResNet50   
+- **Preprocessing:** OpenCV (CLAHE, Image Augmentation)   
+- **Deployment:** Streamlit 🎛  
 
 ## **📂 Dataset**
 We used **3 combined datasets** containing **fundus images** labeled as:
 - **"Normal"** 🟢 (Healthy eyes)
 - **"Glaucoma"** 🔴 (Affected eyes)
 
-📌 **Preprocessing Techniques:**  
-✅ **CLAHE** - Enhances contrast  
-✅ **Data Augmentation** - Random rotations, translations  
-✅ **Resizing** - Standardizing images to **256x256**  
+🔄 **Preprocessing Techniques:**  
+- **CLAHE** - Enhances contrast  
+- **Data Augmentation** - Random rotations, translations  
+- **Resizing** - Standardizing images to **256x256**  
 
 ## **🔢 Training Results**
 - **Final Training Accuracy:** **88.06%**
