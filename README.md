@@ -19,13 +19,13 @@ We used **3 combined datasets** containing **fundus images** labeled as:
 
 🔄 **Preprocessing Techniques:**  
 - **CLAHE** - Enhances contrast  
-- **Data Augmentation** - Random rotations, translations  
+- **Image Augmentation** -  Random rotations, flips, and zooms to improve generalization
 - **Resizing** - Standardizing images to **256x256**  
 
 ## **🔢 Training Results**
-- **Final Training Accuracy:** **88.06%**
-- **Final Validation Accuracy:** **85.96%**
-- **Test Accuracy:** **81.37%**
+- **Final Training Accuracy:** **98.86%**
+- **Final Validation Accuracy:** **88.89%**
+- **Test Accuracy:** **77.64%**
 
 ## **📌 How to Run the Project**
 ### **🔧 Install Dependencies**
