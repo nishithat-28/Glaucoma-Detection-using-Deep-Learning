@@ -17,7 +17,7 @@ Glaucoma is a **chronic eye disease** that damages the **optic nerve**, leading 
 ### 📌 **Source**
 - Kaggle: [Glaucoma Classification Datasets](https://www.kaggle.com/datasets/ayush02102001/glaucoma-classification-datasets)
 
-This dataset contains **fundus images** from *3 combined sources** (ACRIMA, DRISHTI-GS, ORIGA). It includes:
+This dataset contains **fundus images** from **3 combined sources** (ACRIMA, DRISHTI-GS, ORIGA). It includes:
 - **"Normal"** 🟢 (Healthy eyes)
 - **"Glaucoma"** 🔴 (Affected eyes)
 
