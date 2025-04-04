@@ -13,7 +13,10 @@ Glaucoma is a **chronic eye disease** that damages the **optic nerve**, leading 
 - **Deployment:** Streamlit 🎛  
 
 ## **📂 Dataset**
-We used **3 combined datasets** containing **fundus images** labeled as:
+
+### 📌 **Source**
+- Kaggle: [Glaucoma Classification Datasets](https://www.kaggle.com/datasets/ayush02102001/glaucoma-classification-datasets)
+This dataset contains **fundus images** from *3 combined sources** (ACRIMA, DRISHTI-GS, ORIGA). It includes:
 - **"Normal"** 🟢 (Healthy eyes)
 - **"Glaucoma"** 🔴 (Affected eyes)
 
@@ -42,7 +45,7 @@ python -m streamlit run app.py
 We developed an **interactive UI** using **Streamlit**, allowing users to:
 - 🔍 **Upload a fundus image**  
 - 🖼️ **Preview the image**  
-- 🧠 **Get instant glaucoma detection results**  
+- 🧠 **Get instant glaucoma detection results with confidence score**  
 
 
 
