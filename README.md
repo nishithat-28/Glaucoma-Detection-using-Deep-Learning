@@ -50,7 +50,11 @@ We developed an **interactive UI** using **Streamlit**, allowing users to:
 - 🖼️ **Preview the image**  
 - 🧠 **Get instant glaucoma detection results with confidence score**  
 
+## **🖥️ UI Preview**
+ 
+The landing screen of the Glaucoma Detection web app. It provides a brief introduction and guides the user to upload a retinal image.
 
+![Home Page](output_images\public_home.png)
 
 
 
