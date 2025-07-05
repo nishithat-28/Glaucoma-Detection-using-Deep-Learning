@@ -56,5 +56,12 @@ The landing screen of the Glaucoma Detection web app. It provides a brief introd
 
 ![Home Page](output_images/public_home.png)
 
+---
+
+## 🧾 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 
 
